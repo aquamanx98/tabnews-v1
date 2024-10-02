@@ -2,7 +2,7 @@ function Home() {
   return (
     <h1>
       Oi meu amor, amo você!<br></br>
-      Espero que tenha dormido bem.<br></br>I just wanna be yours
+      Espero que tenha dormido bem.<br></br>I just wanna be yours.
     </h1>
   );
 }
